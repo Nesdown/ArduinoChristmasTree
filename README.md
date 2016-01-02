@@ -11,3 +11,5 @@ For example:
 ...
 30.wav
 
+But you can name the .wav files as you want - just edit values in function "playMusic()" after that. 
+
