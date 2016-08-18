@@ -105,7 +105,7 @@ void loop(){
     digitalWrite(YELLOW1_PIN, LOW);
     delay(500);
     digitalWrite(RED1_PIN, LOW);
-    delay(500);
+    delay(400);
     digitalWrite(GREEN1_PIN, LOW);
     delay(1500);
     ledMode += 1;
